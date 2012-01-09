@@ -10,7 +10,8 @@ Twilight, but now very different.
 .. figure:: https://github.com/radiosilence/Dogs-ColourScheme/raw/master/dogs-sublime.png
 	:target: Screenshot_
 
-	Click to enlarge the screenshot.
+	`Click on screenshot to enlarge`__
 
 .. _Screenshot: https://github.com/radiosilence/Dogs-ColourScheme/raw/master/dogs-sublime.png
 
+__ Screenshot_
