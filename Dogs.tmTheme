@@ -12,7 +12,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#0e0e0e</string>
 				<key>caret</key>
 				<string>#A7A7A7</string>
 				<key>foreground</key>
@@ -114,8 +114,6 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#DD1144</string>
-				<key>background</key>
-				<string>#180606</string>
 			</dict>
 		</dict>
 		<dict>
@@ -173,17 +171,6 @@
 			<string>-----------------------------------</string>
 			<key>settings</key>
 			<dict/>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>♦ Embedded Source</string>
-			<key>scope</key>
-			<string>text source</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#000000</string>
-			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
